@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "puppeteer-extra",
   "description": "Modular framework to teach Puppeteer new tricks.",
   "repository": "berstend/puppeteer-extra",
   "author": "berstend",
